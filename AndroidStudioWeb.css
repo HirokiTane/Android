@@ -1,0 +1,17 @@
+body{
+    background: #e6e6fa;
+    
+}
+.MainTitle{
+    background: #ffff00;
+    display: flex;
+  justify-content: center;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+.gate{
+    background: #ffffff;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 50px;
+}
