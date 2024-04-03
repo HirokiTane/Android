@@ -1,0 +1,42 @@
+.header{
+    
+    text-align: center;
+    
+    left:0;
+    right:0;
+   
+}
+h1{
+    line-height: 2;
+}
+nav ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+nav ul li{
+    width: 15%;
+}
+.background{
+    width: 100%;
+    height: 75vh;
+    padding-top: 0px;
+    background-image: url(./images/ITMain.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-:center ;
+}
+body{
+    background: #e6e6fa;
+    justify-content: center;
+}
+
+.gate{
+    background: #ffffff;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 100px;
+    padding-top: 30px;
+}
